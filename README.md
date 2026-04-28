@@ -171,7 +171,7 @@ MIT — feel free to use, fork, and adapt.
 **Shakti Srivastava**
 - An AI optimist and a researcher
 - GitHub: [@shaktisrivastava2020](https://github.com/shaktisrivastava2020)
-- Open to freelance AI/ML projects — RAG, NL2SQL, NLP, Deep Learning GenAI, ConvAI, Speech AI, Vision AI, Agentic, MCP, MLOps products on GCP & AWS
+- Open to freelance AI/ML projects — RAG, NL2SQL, NLP, Deep Learning, GenAI, ConvAI, Speech AI, Vision AI, Agentic, MCP, MLOps products on GCP & AWS
 
 —
 
