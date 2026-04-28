@@ -17,7 +17,7 @@ Traditional e-commerce chatbots can answer EITHER:
 
 **QuickShop AI does BOTH in one conversation** — automatically deciding which approach to use, even combining both for hybrid questions.
 
-This solves a real Upwork pain point: e-commerce clients want a single AI assistant that handles both customer policy queries AND business intelligence — without juggling two systems.
+This solves a real users' pain point: e-commerce clients want a single AI assistant that handles both customer policy queries AND business intelligence — without juggling two systems.
 
 ---
 
