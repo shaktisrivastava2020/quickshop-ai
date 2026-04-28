@@ -1,0 +1,46 @@
+# Secrets - NEVER commit
+.env
+.env.local
+*.key
+*.pem
+service-account-*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Node / React
+node_modules/
+.next/
+out/
+build/
+dist/
+*.log
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Cloud
+.gcloudignore
+
+# ChromaDB local data
+chroma_db/
+*.sqlite3
+
+# Generated files
+docs/*.pdf
+data/seed_data.sql
