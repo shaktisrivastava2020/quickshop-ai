@@ -1,0 +1,17 @@
+# Don't ship local secrets or caches
+.env
+.env.local
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+.venv/
+*.egg-info/
+.pytest_cache/
+.coverage
+.git/
+.gitignore
+README.md
+*.md
