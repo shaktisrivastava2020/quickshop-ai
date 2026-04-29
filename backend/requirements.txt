@@ -1,24 +1,24 @@
-# QuickShop AI - Backend Dependencies (lightweight)
+# QuickShop AI - Backend Dependencies (security-patched)
 
 # Web framework
-fastapi==0.115.0
+fastapi==0.122.0
 uvicorn[standard]==0.32.0
-python-multipart==0.0.12
+python-multipart==0.0.26
 
 # Database
 sqlalchemy==2.0.36
 cloud-sql-python-connector[pg8000]==1.13.0
-pg8000==1.31.2
+pg8000==1.31.5
 
 # Google Cloud
-google-cloud-aiplatform==1.71.1
+google-cloud-aiplatform==1.133.0
 google-cloud-storage==2.18.2
 
 # RAG components
 chromadb==0.5.20
-pypdf==5.1.0
+pypdf==6.10.2
 
 # Utilities
-python-dotenv==1.0.1
+python-dotenv==1.2.2
 pydantic==2.10.3
 pydantic-settings==2.6.1
