@@ -21,6 +21,12 @@ This solves a real users' pain point: e-commerce clients want a single AI assist
 
 ---
 
+## 📊 Evaluation
+
+For metrics, test cases, and success criteria, see **[EVALUATION.md](./EVALUATION.md)**
+
+---
+
 ## 🌐 Live Demo
 
 **👉 [Try it live](https://quickshop-ui-218990051802.asia-south1.run.app)**
